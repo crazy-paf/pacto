@@ -252,4 +252,3 @@ to the /hello_world endpoint of a provider:
 
 Read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-\o/
